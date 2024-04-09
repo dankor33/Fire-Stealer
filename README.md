@@ -4,7 +4,7 @@ Welcome to Fire Stealer
 
 ## Table of Contents
 - [🚀Features](#Features)
-- [Change-Logs](#Change-Logs)
+- [📜Change-Logs](#Change-Logs)
 
 ## Features
 🔍 **Data Extraction**: Grab Discord Token, Phone Number, Email, and HQ Friends effortlessly.
@@ -17,6 +17,8 @@ Welcome to Fire Stealer
 
 🔄 **Regular Updates**: Regularly updated and maintained.
 
+## 📜 Change-Logs
+v1.Release of Fire-Stealer
 
 ## Contributing
 Contributions are welcome!
