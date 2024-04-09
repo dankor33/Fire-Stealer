@@ -15,7 +15,7 @@ Welcome to Fire Stealer
 
 📁 **File Extraction**: Grab specific files from targeted systems or directories.
 
-🔄 **Regular Updates**: Regularly updated and maintained to ensure optimal performance and security.
+🔄 **Regular Updates**: Regularly updated and maintained.
 
 
 ## Contributing
