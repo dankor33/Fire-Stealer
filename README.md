@@ -7,7 +7,7 @@ Welcome to Fire Stealer
 - [Change-Logs](#Change-Logs)
 
 ## Features
-🔍 **Data Extraction**: Grab Discord Token, Phone Number, Email, and HQ Friends effortlessly.
+🔍 Data Extraction Grab Discord Token, Phone Number, Email, and HQ Friends effortlessly.
 💉 **Discord Injection**: Seamlessly interact with Discord APIs for enhanced functionality.
 🍪 **Browser Data Grabbing**: Extract browser cookies and passwords for targeted data retrieval.
 📁 **File Extraction**: Grab specific files from targeted systems or directories.
